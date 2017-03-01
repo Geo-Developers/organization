@@ -92,28 +92,34 @@ Los factores que definen a una oferta poco elaborada/realista y que hacen que au
 
 ## Cómo hacer atractiva una oferta
 
-* Poner salario:  Siempre recomendamos a los ofertantes que lo pongan para atraer a posibles candidatos y evitarse recibir cientos de CVs de gente con expectativas diferentes.
+En este apartado hablaremos de algunos de los factores que pueden ayudar a motivar a un desarrollador y por tanto diseñar condiciones y espacios de trabajo que atraigan natualmente a estos perfiles.
 
-* Describir al equipo técnico: para muchos desarrolladores tener la posibilidad de conocer y trabajar rodeado de grandes profesionales puede ser un gran aliciente.
+* **Especificar el salario**: poner el salario ayuda a atraer a posibles candidatos y evita perder tiempo en procesos de selección con profesionales con expectativas diferentes.
 
-* Cultura de empresa, beneficios sociales (flexibilidad horaria, ...), posibilidad de adquirir participaciones, etc. especialmente Si por algún no puede ofrecer un salario a la altura del mercado
+* **Describir al equipo técnico**: para muchos desarrolladores tener la posibilidad de conocer y trabajar rodeado de grandes profesionales puede ser un gran aliciente.
 
-* Logros técnicos de la empresa de los que se sienta orgullosa la empresa (automatización, escalabilidad, rendimiento, arquitectura, ...)
+* **Cultura de empresa**: flexibilidad horaria, teletrabajo, auto organizacion horaria, días/horas para imprevistos, formación, ayudas económicas específicas, posibilidad de adquirir participaciones, u otros beneficios sociales. (especialmente importante si por algún no se puede ofrecer un salario competitivo con el mercado).
 
-* Metodología y herramientas de trabajo: ¿usan metodologías ágiles, sistemas de control de versiones, pair programming, TDD, ...?
+* **Logros técnicos** de la empresa de los que se sienta orgullosa la empresa (automatización, escalabilidad, rendimiento, arquitectura, ...)
 
-En este apartado hablaremos de algunas de los factores que pueden ayudar a motivar a un desarrollador y por tanto diseñar condiciones y espacios de trabajo que atraigan natualmente a estos perfiles.
+* **Metodología y herramientas de trabajo**: ¿usan metodologías ágiles, sistemas de control de versiones, pair programming, TDD, ...?
 
 ## Ejemplos de ofertas
 
 Ofertas atractivas:
-* Esri España https://www.meetup.com/es-ES/madridjs/messages/64820372/
-* Upplication
+* [Evangelizador de Desarrolladores en Esri.es ](https://www.meetup.com/es-ES/madridjs/messages/64820372/)
+* [Backend Upplication.com](http://backend.upplication.com/)
+* [Desarrollador Backend Django en Aplazame.com](https://betabeers.com/post/desarrollador-backend-django-2911/)
+* [Frontend Maquetador con 4 años experiencia en SPAs JS](https://www.meetup.com/es-ES/madridjs/messages/79255721/)
 
-Ejemplos de ofertas que han sido criticadas:
+Ejemplo de flame: [Product Manager](https://www.meetup.com/es-ES/madridjs/messages/79407544/) -> ([flame completo](./offers/product-manager.png))
 
-De empresas conciliadoras:
-* YoSoyTuMadre: conciliación
+De empresas conciliadoras ([YoSoyTuMadre.com](http://www.yosoytumadre.com)):
+* [Pronoide](http://www.pronoide.com/)
+* [Kaleidos](http://www.kaleidos.net/)
+* [Happyforce](https://www.myhappyforce.com/home)
+* [Paradigma](https://www.paradigmadigital.com/)
+* [More](http://www.yosoytumadre.com/empresas_ti_conciliacion/)
 
 
 ## Referencias
