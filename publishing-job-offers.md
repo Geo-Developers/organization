@@ -2,6 +2,8 @@
 
 Somos conscientes de lo importante y difícil que puede llegar a ser para muchas empresas encontrar buenos desarrolladores, por ello hemos creado esta guía, para reunir algunos consejos para hacer una oferta atractiva y para intentar evitaros algunos problemas.
 
+> **Lectura recomendada**: [Newsletter 'Inscontratables' de David Bonilla](https://mailchi.mp/bonillaware/incontratables) <- [reflexión relacionada](https://twitter.com/hhkaos/status/982926533164707840)
+
 # Publicar ofertas de trabajo
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
