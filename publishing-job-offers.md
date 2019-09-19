@@ -60,7 +60,7 @@ Estos y otros factores hacen que muchos desarrolladores se sientan en una situac
 
 Es un error común en algunas empresas escribir en una lista de correo de una comunidad como si se tratase de un portal de empleo cualquiera y esto puede desencadenar en nefastas consecuencias.
 
-> **Nota**: *el objetivo de este apartado no es disuadirle de enviar sus ofertas a listas de correo a sino de remarcar la importancia de elaborarlas  y revisar con cuidado/cariño antes de hacerlo.*
+> **Nota**: *el objetivo de este apartado no es disuadirle de enviar sus ofertas a listas de correo sino de remarcar la importancia de elaborarlas  y revisar con cuidado/cariño antes de hacerlo.*
 
 Teniendo en cuenta el contexto del apartado del anterior, cuando una empresa envía a una lista de correo una oferta que está poco elaborada (*en el siguiente apartado explicaremos a qué nos referimos*), corre el riesgo de que **algunos desarrolladores se sientan tratados como mercancía barata** y por tanto aumenten las posibilidades de que se inicie un flame que termine arrastrando a otros desarrolladores que generen un aluvión de mensajes y como resultado se **posicione a su empresa como un mal empleador**.
 
