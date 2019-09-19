@@ -60,9 +60,9 @@ Estos y otros factores hacen que muchos desarrolladores se sientan en una situac
 
 Es un error común en algunas empresas escribir en una lista de correo de una comunidad como si se tratase de un portal de empleo cualquiera y esto puede desencadenar en nefastas consecuencias.
 
-> **Nota**: *el objetivo de este apartado no es disuadirle de enviar sus ofertas a listas de correo sino de remarcar la importancia de elaborarlas  y revisar con cuidado/cariño antes de hacerlo.*
+> **Nota**: *el objetivo de este apartado no es disuadirle de enviar sus ofertas a listas de correo sino de remarcar la importancia de elaborarlas y revisarlas con cuidado/cariño antes de enviarlas.*
 
-Teniendo en cuenta el contexto del apartado del anterior, cuando una empresa envía a una lista de correo una oferta que está poco elaborada (*en el siguiente apartado explicaremos a qué nos referimos*), corre el riesgo de que **algunos desarrolladores se sientan tratados como mercancía barata** y por tanto aumenten las posibilidades de que se inicie un flame que termine arrastrando a otros desarrolladores que generen un aluvión de mensajes y como resultado se **posicione a su empresa como un mal empleador**.
+Teniendo en cuenta el contexto del apartado del anterior, cuando una empresa envía a una lista de correo una oferta que está poco elaborada (*en el siguiente apartado explicaremos a qué nos referimos*), corre el riesgo de que **algunos desarrolladores se sientan tratados como mercancía barata** y por tanto aumenten las posibilidades de que se inicie un [flame](https://es.wikipedia.org/wiki/Flame) que termine arrastrando a otros desarrolladores que generen un aluvión de mensajes y como resultado se **posicione a su empresa como un mal empleador**.
 
 Por todo esto, nuestra recomendación es que cuando se plantee enviar una oferta a una lista de correo lo haga con mucho cuidado/cariño, porque **las listas de correo son un arma de doble filo**. Son un medio rápido y barato para llegar a muchos y buenos desarrolladores, pero hay que tener en cuenta que también **son un canal de comunicación bi-direccional y compartido** por perfiles muy heterogéneos:
 
