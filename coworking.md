@@ -34,9 +34,9 @@ Cosas que debes saber sobre el funcionamiento:
 
 Si quieres unirte al coworking:
 
-1. [Completa este formulario](https://docs.google.com/forms/d/e/1FAIpQLScK2j6EDb69Ef_fc7BOHECGIcYxc7p5Sax-_3hpc1npsEvJiw/viewform) para que añadamos tu ficha y 
+1. [Completa este formulario](https://docs.google.com/forms/d/e/1FAIpQLScK2j6EDb69Ef_fc7BOHECGIcYxc7p5Sax-_3hpc1npsEvJiw/viewform) para que añadamos tu ficha 
 2. Si aún no tienes una, [créate una cuenta en Discord](https://discord.com/register) y luego accede al canal [#coworking-texto](https://discord.gg/4BTtfKskJM)
-3. Espera a recibir una
+3. Espera a recibir una invitación al equipo de [Sneek](https://sneek.io/)
 4. Sigue a GeoDevelopers en las redes que uses ([Twitter](https://twitter.com/geo_developers), [Youtube](https://www.youtube.com/geo-developers), [Twitch](https://www.twitch.tv/geo_developers), ...) y activa las notificaciones si quieres que te salga un recordatorio cuando estemos en directo.
 4. Sino, recuerda Discord y Sneek cada vez que vayas a trabajar recuerda abrir y quieras un como de compalía ;). 
 
