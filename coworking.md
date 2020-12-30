@@ -8,7 +8,7 @@ Hay un descanso programado cada día a las 12:00, en el que si hay personas nuev
 
 ## Sobre los coworkers
 
-Si quieres saber quienes somos puedes [ver las fichas de los coworkers aquí](https://docs.google.com/presentation/d/e/2PACX-1vTpBEwY20fWC-v1XbMIduDxboGoPcVXmExDg6PyOfmJhiikgqTvVCPzrKD5gkG8EafQIOR4PDTMMttx/pub?start=false&loop=false&delayms=3000). [Aquí puedes darte de alta](https://docs.google.com/forms/d/e/1FAIpQLScK2j6EDb69Ef_fc7BOHECGIcYxc7p5Sax-_3hpc1npsEvJiw/viewform), aunque te recomendamos que termines de leer este documento antes.
+Si quieres saber quienes somos puedes [ver las fichas de los coworkers aquí](https://docs.google.com/presentation/d/e/2PACX-1vTpBEwY20fWC-v1XbMIduDxboGoPcVXmExDg6PyOfmJhiikgqTvVCPzrKD5gkG8EafQIOR4PDTMMttx/pub?start=false&loop=false&delayms=3000). Puedes [darte de alta aquí](https://docs.google.com/forms/d/e/1FAIpQLScK2j6EDb69Ef_fc7BOHECGIcYxc7p5Sax-_3hpc1npsEvJiw/viewform), pero es recomedable que termines de leer este documento antes ;P.
 
 [![Ficha coworker](https://github.com/Geo-Developers/organization/blob/master/assets/GeoDevelopers%20-%20Coworking%20Members.jpg?raw=true)](https://docs.google.com/presentation/d/e/2PACX-1vTpBEwY20fWC-v1XbMIduDxboGoPcVXmExDg6PyOfmJhiikgqTvVCPzrKD5gkG8EafQIOR4PDTMMttx/pub?start=false&loop=false&delayms=3000)
 
