@@ -44,7 +44,7 @@ Si quieres unirte al coworking:
 
 |Herramienta|Propósito|Versión web|Descargar|Link de acceso|
 |---|---|---|---|---|
-|[Discord](https://discord.com/)|Lo usamos tanto para chatear (a través de mesanjería instantánea) como por voz|[Web app](https://discord.com/login)|[Descarga](https://discord.com/download)|[Chat de texto](https://discord.gg/4BTtfKskJM)|[Chat de voz](https://discord.gg/8pXkBPkvd2)|
+|[Discord](https://discord.com/)|Lo usamos tanto para chatear (a través de mesanjería instantánea) como por voz|[Web app](https://discord.com/login)|[Descarga](https://discord.com/download)|[Chat de texto](https://discord.gg/4BTtfKskJM)\|[Chat de voz](https://discord.gg/8pXkBPkvd2)|
 |[Sneek](https://sneek.io/)|Ofrece un muro que se actualiza cada 1-5min con fotos instantáneas de todas las personas que estamos conectadas en cada momento (además del estado)|[Web app](https://sneek.io/login)|[Descarga](https://sneek.io/download)|[Necesitas rellenar este formulario](https://docs.google.com/forms/d/e/1FAIpQLScK2j6EDb69Ef_fc7BOHECGIcYxc7p5Sax-_3hpc1npsEvJiw/viewform)
 
 
