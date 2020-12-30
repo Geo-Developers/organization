@@ -2,6 +2,10 @@
 
 ## ¿Qué es esto?
 
+Si eres de los que no le gusta leer, [aquí te dejamo un vídeo](https://youtu.be/08UzzykQUzM):
+
+[![Miniatura de youtube](https://img.youtube.com/vi/08UzzykQUzM/mqdefault.jpg)](https://youtu.be/08UzzykQUzM)
+
 Es un espacio **de trabajo online** en el que podrás hacer equipo y conectar con otros techies (desarrolladores, analistas de datos, expertos en SIG, ...).
 
 Hay un descanso programado cada día a las 12:00, en el que si hay personas nuevas podemos hacer un sesión networking 1-1.
