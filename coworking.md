@@ -26,14 +26,15 @@ Cosas que debes saber sobre el funcionamiento:
 
 * **Puedes entrar a cualquier hora al coworking**, está abierto [24/7/365](https://en.wikipedia.org/wiki/24/7_service), y como en una oficina puedes ser que a veces no haya nadie más. Por lo que si conectas y no hay nadie, no te salgas, puede que alguien entre más tarde.
 
-* **Cuando entres da "los buenos días" (la educación siempre por delante ;P), y si quieres avisa cuándo tienes pensado hacer tus descansos ese día** para que otras personas que quieran hablar contigo se puedan intentar programar (recuerda que puede haber personas de varias zonas horarias, por lo que recuerda decir la hora y la ciudad, así personas que estén en otra franja horaria buscar en Google [\[hora\] \[ciudad1\] en \[ciudad2\]](https://www.google.com/search?q=12%3A00+madrid+en+%5Bciudad) para saber a qué hora local corresponde)
+* **Cuando entres da "los buenos días" (la educación siempre por delante ;P), y si quieres avisa en el [canal #planificación-diaria](https://discord.gg/4BTtfKskJM) cuándo tienes pensado hacer tus descansos ese día** para que otras personas que quieran hablar contigo se puedan intentar programar (recuerda que puede haber personas de varias zonas horarias, por lo que recuerda decir la hora y la ciudad, así personas que estén en otra franja horaria buscar en Google [\[hora\] \[ciudad1\] en \[ciudad2\]](https://www.google.com/search?q=12%3A00+madrid+en+%5Bciudad) para saber a qué hora local corresponde)
+
+* **Cuando empieces un descanso entra en cualquiera de los canales de voz**. Si nadie entra, y no hay mucha actividad en el canal #planificación-diaria, puedes mandar un recordatorio por si alguien se ha despistado. Para tener múltiples conversaciones simultáneamente sobre diferentes temas se han creado varios canales de voz, de este modo cada persona puede dirigirse al canal que más le apetezca: #descanso-geofrikadas, #descanso-netflix, #descanso-networking, #descanso-deportes, ... El canal #descanso-offtopic es un canal en el que se permite hablar de cualquier tema. Se irán creando más canales conforme se vayan considerando necesarios (a petición de los coworkers).
 
 * Para evitar distraer a los coworkers **esta prohibido usar el canal #planificación-diaria del coworking para chatear** (por eso están limitados los mensajes a uno cada 30segundos). Si quieres sociabilizar mira a ver si hay alguien en alguno de los canales de voz o escribe en el [canal #general de geodevelopers](https://discord.gg/8pXkBPkvd2)
 
 * **Recuerda silenciar los canales de texto que no te interesen**, así evitarás las molestas distracciones cuando haya actividad.
 
 * Por si acaso, aprovechamos para recordar que existe un [código de conducta](https://github.com/Geo-Developers/organization/blob/master/code-of-conduct.md#c%C3%B3digo-de-conducta) de la comunidad que hay que respetar.
-
 
 ## ¿Por qué se retransmite online?
 
