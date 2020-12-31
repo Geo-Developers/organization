@@ -46,7 +46,7 @@ Hay los dos únicos descansos "oficiales" son:
 
 Durante los streamings se podrá ver entre otras cosas la actividad en tiempo real del coworking. Algo como esto:
 
-[[Pantallazo](https://github.com/Geo-Developers/organization/blob/master/assets/coworking_layout_31_12_2020.png?raw=true)](https://www.twitch.tv/geo_developers/video/854956405?filter=archives&sort=time)
+[![Pantallazo](https://github.com/Geo-Developers/organization/blob/master/assets/coworking_layout_31_12_2020.png?raw=true)](https://www.twitch.tv/geo_developers/video/854956405?filter=archives&sort=time)
 
 Se mostrará:
 
