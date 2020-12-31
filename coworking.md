@@ -78,9 +78,9 @@ Lo hacemos porque pensamos que es una buena forma de demostrar y recordar que el
 
 Tan sólo tienes que:
 
-1. [Completa este formulario](https://docs.google.com/forms/d/e/1FAIpQLScK2j6EDb69Ef_fc7BOHECGIcYxc7p5Sax-_3hpc1npsEvJiw/viewform) para que podamos añadir tu ficha 
+1. Si aún no tienes una, **[créate una cuenta en Discord](https://discord.com/register) y comparte cuándo vas a descansar hoy [en el canal #planificación-diaria](https://discord.gg/4BTtfKskJM)**.
 
-2. Si aún no tienes una, **[créate una cuenta en Discord](https://discord.com/register) y comparte cuándo vas a descansar hoy [en el canal #planificación-diaria](https://discord.gg/4BTtfKskJM)**.
+2. [Completa este formulario](https://docs.google.com/forms/d/e/1FAIpQLScK2j6EDb69Ef_fc7BOHECGIcYxc7p5Sax-_3hpc1npsEvJiw/viewform) para que podamos añadir tu ficha 
 
 3. Espera a recibir una invitación al equipo de [Sneek](https://sneek.io/)
 
