@@ -6,13 +6,13 @@ Si eres de los que no le gusta leer, [aquí te dejamo un vídeo](https://youtu.b
 
 [![Miniatura de youtube](https://img.youtube.com/vi/08UzzykQUzM/mqdefault.jpg)](https://youtu.be/08UzzykQUzM)
 
-Con la situación actual de confinamiento hemos pensado en crear un espacio online con el que buscamos **mejorar la experiencia del teletrabajo**:
+Con la situación actual de confinamiento hemos creaado un espacio online con el que buscamos **mejorar la experiencia del teletrabajo**:
 
 * Respestando los ritmos de trabajo de cada uno, pero **animando a que se hagan descansos periódicamente**
 
 * Facilitando **que en los descansos se pueda sociabilizar mientras estiras las piernas**, te preparas un café, ... (usando el [chat de voz desde el móvil](https://discord.com/download))
 
-* Ofreciéndo una dinámica para **ayudar a conocer a personas nuevas con intereses en común**.
+* Ofreciéndo una dinámica para **ayudar a conocer a personas nuevas con intereses en común** (no está limitado sólo a "geo" y/o a "developers").
 
 ## Sobre los coworkers
 
