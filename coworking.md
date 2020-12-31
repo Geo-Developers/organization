@@ -9,7 +9,7 @@ Si eres de los que no le gusta leer, [aquí te dejamo un vídeo](https://youtu.b
 Con la situación actual de confinamiento hemos pensado en crear un espacio online con el que buscamos **mejorar la calidad del teletrabajo**:
 
 * Respestando los ritmos de trabajo de cada uno, pero **animando a que se hagan descansos periódicamente**
-* Facilitando **que en los descansos se pueda sociabilizar mientras estiras las piernas**, te preparas un café, ... (usando el+ chat de voz desde el móvil](https://discord.com/download))
+* Facilitando **que en los descansos se pueda sociabilizar mientras estiras las piernas**, te preparas un café, ... (usando el [chat de voz desde el móvil](https://discord.com/download))
 * Ofreciéndo una dinámica para **ayudar a conocer a personas nuevas con intereses en común**.
 
 ## Sobre los coworkers
