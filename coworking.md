@@ -12,7 +12,7 @@ Con la situación actual de confinamiento hemos creaado un espacio online con el
 
 * Facilitando **que en los descansos se pueda sociabilizar mientras estiras las piernas**, te preparas un café, ... (usando el [chat de voz desde el móvil](https://discord.com/download))
 
-* Ofreciéndo una dinámica para **ayudar a conocer a personas nuevas con intereses en común** (no está limitado sólo a "geo" y/o a "developers").
+* Ofreciéndo una dinámica para **ayudar a conocer a personas nuevas con intereses en común** (principalmente vinculado a "geo" y/o a "developers").
 
 ## Sobre los coworkers
 
