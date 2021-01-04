@@ -2,7 +2,7 @@
 
 ## ¿Qué es esto?
 
-Si eres de los que no le gusta leer, [aquí te dejamo un vídeo](https://youtu.be/08UzzykQUzM):
+Si eres de los que no le gusta leer, [aquí te dejamo un vídeo](https://youtu.be/08UzzykQUzM) (el vídeo no está actualizado, mejor lee esta página, son ~5min) :
 
 [![Miniatura de youtube](https://img.youtube.com/vi/08UzzykQUzM/mqdefault.jpg)](https://youtu.be/08UzzykQUzM)
 
