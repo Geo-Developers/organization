@@ -6,13 +6,15 @@ Lo mejor es que leas esta página (son unos ~5min), pero por si acaso... [te dej
 
 [![Miniatura de youtube](https://img.youtube.com/vi/08UzzykQUzM/mqdefault.jpg)](https://youtu.be/08UzzykQUzM)
 
-Con la situación actual de confinamiento hemos creaado un espacio online con el que buscamos **mejorar la experiencia del teletrabajo**:
+Con la situación actual de confinamiento hemos creado un [coworking o espacio de trabajo cooperativo](https://es.wikipedia.org/wiki/Trabajo_cooperativo) online con el que buscamos **mejorar la experiencia del teletrabajo**:
 
 * Respestando los ritmos de trabajo de cada uno, pero **animando a que se hagan descansos periódicamente**
 
 * Facilitando **que en los descansos se pueda sociabilizar mientras estiras las piernas**, te preparas un café, ... (usando el [chat de voz desde el móvil](https://discord.com/download))
 
 * Ofreciéndo una dinámica para **ayudar a conocer a personas nuevas con intereses en común** (principalmente vinculado a "geo" y/o a "developers").
+
+Por tanto, aunque normalmente cada uno esté desarrollando sus proyectos profesionales de manera independiente, con los espacios compartidos de descanso esperamos fomentar que surjan proyectos conjuntos.
 
 ## Sobre los coworkers
 
