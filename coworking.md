@@ -2,7 +2,7 @@
 
 ## ¿Qué es esto?
 
-Lo mejor es que leas esta página (son unos ~5min). Aunque [tenemos un vídeo](https://youtu.be/08UzzykQUzM), no está actualizado con los últimos cambios:
+Lo mejor es que leas esta página (son unos ~5min), pero por si acaso... [te dejamos un vídeo desactualizado](https://youtu.be/08UzzykQUzM) (no contiene los últimos cambios):
 
 [![Miniatura de youtube](https://img.youtube.com/vi/08UzzykQUzM/mqdefault.jpg)](https://youtu.be/08UzzykQUzM)
 
