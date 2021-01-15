@@ -2,9 +2,9 @@
 
 ## ¿Qué es esto?
 
-Lo mejor es que leas esta página (son unos ~5min), pero por si acaso... [te dejamos un vídeo desactualizado](https://youtu.be/08UzzykQUzM) (no contiene los últimos cambios):
+Lo mejor es que leas esta página (son unos ~5min), pero por si acaso... [te dejamos un vídeo](https://youtu.be/08UzzykQUzM):
 
-[![Miniatura de youtube](https://img.youtube.com/vi/08UzzykQUzM/mqdefault.jpg)](https://youtu.be/08UzzykQUzM)
+[![Miniatura de youtube](https://img.youtube.com/vi/BFWHiKhWpgQ/mqdefault.jpg)](https://www.youtube.com/watch?v=BFWHiKhWpgQ)
 
 Con la situación actual de confinamiento hemos creado un [coworking o espacio de trabajo cooperativo](https://es.wikipedia.org/wiki/Trabajo_cooperativo) online con el que buscamos **mejorar la experiencia del teletrabajo**:
 
