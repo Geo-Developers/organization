@@ -42,39 +42,15 @@ Cosas que debes saber sobre el funcionamiento:
 
 * Por si acaso, aprovechamos para recordar que existe un [código de conducta](https://github.com/Geo-Developers/organization/blob/master/code-of-conduct.md#c%C3%B3digo-de-conducta) de la comunidad que hay que respetar.
 
-## ¿Cuándo y por qué se retransmite online?
-
-De Lunes a Viernes, de 10:00 a 14:00 [CET](https://www.google.com/search?q=cet+time+now)) se retransmitirá a través del [canal de Twitch de GeoDevelopers](http://twitch.com/geo_developers). 
-
-Durante los streamings se podrá ver entre otras cosas la actividad en tiempo real del coworking. 
-
-Algo como esto:
-
-[![Pantallazo](https://github.com/Geo-Developers/organization/blob/master/assets/coworking_layout_31_12_2020.png?raw=true)](https://www.twitch.tv/geo_developers/video/854956405?filter=archives&sort=time)
-
-Se mostrará:
-
-* La actividad del canal de texto #planificación-diaria
-
-* Un slider con las fichas de los coworkers
-
-* Las imágenes de los coworker que estén conectados a Sneek
-
-* Información básica de en qué consiste el coworking y el enlace a esta documentación
-
-* Y en ocasiones, puede que durante los descansos se retransmita algo diferente en el streaming.
-
 **Descansos recurrentes**
 
 Los dos únicos descansos "oficiales" que hay programados siempre son:
 
-* **La hora del plátano** (a las 12:00 de L-V): El objetivo es asegurarnos que como mínimo haya al menos un descanso programado y que todos lo podamos tener en la agenda. 
+* **La hora del plátano** (a las 12:00* de L-V): El objetivo es asegurarnos que como mínimo haya al menos un descanso programado y que todos lo podamos tener en la agenda. 
 
-* **Geobirras del viernes** (de 13:00 a 14:00 los viernes): Organizaremos una "geobirra" antes de comer para darle la bienvenida al fin de semana.
+* **Geobirras del viernes** (de 13:00* a 14:00* los viernes): Organizaremos una "geobirra" antes de comer para darle la bienvenida al fin de semana.
 
-**¿Por qué se retransmite??**
-
-Lo hacemos porque pensamos que es una buena forma de demostrar y recordar que el coworking sigue activo. Además creemos que ayudará a darle más visibilidad al espacio y animar a que nuevas personas se unan. Hemos pensado que esta puede ser una buena forma de acercar el espacio, generar interés y desmostrar que tampoco somos demasiado raros 😜.
+> ***Nota**: como hay miembros de Europa y Latinoamérica, hay en realidad 4 descansos, los de Europa son en horario CET (UTC +1) y los lationamericanos a horario COT (UTC -5).
 
 ## ¿Cómo me puedo unir oficialmente?
 
@@ -86,7 +62,7 @@ Tan sólo tienes que:
 
 3. Espera a recibir una invitación al equipo de [Sneek](https://sneek.io/)
 
-4. Y si no te importa..., **sigue a GeoDevelopers en redes sociales**, las que uses ([Twitter](https://twitter.com/geo_developers), [Youtube](https://www.youtube.com/geo-developers), [Twitch](https://www.twitch.tv/geo_developers), ...) y activa las notificaciones si quieres que te salga un recordatorio cuando estemos en directo.
+4. Y si no te importa..., **sigue a GeoDevelopers en redes sociales**, las que uses ([Twitter](https://twitter.com/geo_developers), [Youtube](https://www.youtube.com/geo-developers), [Twitch](https://www.twitch.tv/geodevelopers), ...) y activa las notificaciones si quieres que te salga un recordatorio cuando estemos en directo.
 
 Pero recuerda, **LO MÁS IMPORTANTE** es que coger el hábito y que todos los días que puedas abras Discord a primera hora, saludes e indiques a qué hora(s) vas a hacer tu(s) descanso(s). 
 
