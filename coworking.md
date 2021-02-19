@@ -60,19 +60,15 @@ Tan sólo tienes que:
 
 2. [Completa este formulario](https://docs.google.com/forms/d/e/1FAIpQLScK2j6EDb69Ef_fc7BOHECGIcYxc7p5Sax-_3hpc1npsEvJiw/viewform) para que podamos añadir tu ficha 
 
-3. Espera a recibir una invitación al equipo de [Sneek](https://sneek.io/)
-
-4. Y si no te importa..., **sigue a GeoDevelopers en redes sociales**, las que uses ([Twitter](https://twitter.com/geo_developers), [Youtube](https://www.youtube.com/geo-developers), [Twitch](https://www.twitch.tv/geodevelopers), ...) y activa las notificaciones si quieres que te salga un recordatorio cuando estemos en directo.
+3. Y si no te importa..., **sigue a GeoDevelopers en redes sociales**, las que uses ([Twitter](https://twitter.com/geo_developers), [Youtube](https://www.youtube.com/geo-developers), [Twitch](https://www.twitch.tv/geodevelopers), ...) y activa las notificaciones si quieres que te salga un recordatorio cuando estemos en directo.
 
 Pero recuerda, **LO MÁS IMPORTANTE** es que coger el hábito y que todos los días que puedas abras Discord a primera hora, saludes e indiques a qué hora(s) vas a hacer tu(s) descanso(s). 
-
 
 ## Sobre las herramientas
 
 |Herramienta|Propósito|Versión web|Descargar|Link de acceso|
 |---|---|---|---|---|
 |[Discord](https://discord.com/)|Lo usamos tanto para chatear (a través de mesanjería instantánea) como por voz|[Web app](https://discord.com/login)|[Descarga](https://discord.com/download)|[Chat de texto](https://discord.gg/4BTtfKskJM)\|[Chat de voz](https://discord.gg/8pXkBPkvd2)|
-|[Sneek](https://sneek.io/)|Ofrece un muro que se actualiza cada 1-5min con fotos instantáneas de todas las personas que estamos conectadas en cada momento (además del estado)|[Web app](https://sneek.io/login)|[Descarga](https://sneek.io/download)|[Necesitas rellenar este formulario](https://docs.google.com/forms/d/e/1FAIpQLScK2j6EDb69Ef_fc7BOHECGIcYxc7p5Sax-_3hpc1npsEvJiw/viewform)
 
 ## Preguntas frecuentes
 
