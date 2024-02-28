@@ -41,6 +41,8 @@ Además, siempre se ha dicho que no hay mejor forma de aprender algo que enseña
 
 Si estás dispuest@ a contribuir dándo una charla pero necesitas un poco de inspiración, échale un vistazo a esta ([lista de temas relacionados con la comunidad](related_topics.md)).
 
+Si quieres dar una charla puedes enviarla [a través de Sessionize](https://sessionize.com/geo-developers-meetup) y avísamos por [nuestro servidor de Discord](https://discord.gg/VaWrMGRZYD) (que Sessionize no envía notificaciones por email cuando se reciben nuevas propuestas ^_^')
+
 ## Ayudar a organizar charlas
 Si no estás dispuest@ o no tienes tiempo para prepararte una charla también puedes contribuir ayudando a organizar una charla como explicamos a continuación.
 
@@ -56,7 +58,7 @@ En ocasiones encontramos ponentes para dar una charla pero las fechas en las que
 
 Por tanto si se da este caso puedes ayudar intentando contactar con el ponente e intentando cuadrar una fecha en la que pueda dar la charla. Asegúrate de que la fecha no coincida con ningún [otro evento de la comunidad](https://www.meetup.com/es-ES/Geo-Developers/events/).
 
-Por último avisa al equipo de organizadores [en slack ](https://geodev.slack.com) para que introduzcan los detalles del evento en [el grupo de meetup](https://www.meetup.com/es-ES/Geo-Developers).
+Por último avisa al equipo de organizadores [en Discord](https://discord.gg/VaWrMGRZYD) para que introduzcan los detalles del evento en [el grupo de meetup](https://www.meetup.com/es-ES/Geo-Developers).
 
 ## Sugerir ideas para futuras charlas
 A veces es fácil caer en la dinámica de hablar siempre de los mismos temas o incluso de quedarse sin ideas para charlas. Por eso otra forma genial de ayudar es proponer ideas de charlas que podrían ser interesantes para muchos miembros de la comunidad, y si además de eso puedes proponer posibles candidatos para darlas mucho mejor.
@@ -74,24 +76,5 @@ Por tanto, si te apetece hacer algo que no esté listado aquí no dudes en unirt
 
 Sin más que añadir, sólo nos queda agradecer una vez más a todos de los profesionales compartís o habéis compartido generosamente vuestro tiempo y conocimiento con la comunidad.
 
-|Foto|Nombre y perfil|Twitter|
-|---|---|---|---|---|
-|a|[Carlos Pérez](geodevelopers.org/members/140951632)|n.a.|
-|a|Carlos Herrera|n.a.|
-|a|Joan Pere|n.a.|
-|a|Jorge Sanz|n.a.|
-|a|Santiago Higuera|n.a.|
-|a|Ali|n.a.|
-|a|Aitor Calero|n.a.|
-|a|Jorge Sanz|n.a.|
-|a|Kepa|n.a.|
-|a|Pedro Rico|n.a.|
-|a|Loli Fernandez|n.a.|
-|a|Yansa|n.a.|
-|a|Borja Teerán|n.a.|
-|a|Raúl Jiménez|n.a.|
-|a|José María Martinez|n.a.|
-|a|Carlos Guerrero|n.a.|
-|a|Pau (mapillary)|n.a.|
 
-Si conoces a alguien que haya contribuido y no esté en esta lista no dudes en [añadirlo](#).
+[![Colaboradores de Geo Developers](https://github.com/Geo-Developers/organization/assets/826965/cfd2c867-1c5c-401a-ac9e-a418a1ad6c2a)](https://docs.google.com/presentation/d/1UPUDhbGzC6xPizaDHCBGtIm186e2rEIdc0OzvGOzh9M/edit?usp=sharing)
